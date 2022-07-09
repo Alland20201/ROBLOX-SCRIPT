@@ -89,7 +89,7 @@ MainFrame.Draggable = true
 
 MainFrameBeautyA.Name = "MainFrameBeautyA"
 MainFrameBeautyA.Parent = MainFrame
-MainFrameBeautyA.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+MainFrameBeautyA.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MainFrameBeautyA.BorderSizePixel = 0
 MainFrameBeautyA.Size = UDim2.new(0, 412, 0, 22)
 MainFrameBeautyA.Visible = false
@@ -182,12 +182,12 @@ end)
 
 EXPLOIT6.Name = "EXPLOIT6"
 EXPLOIT6.Parent = MainFrame
-EXPLOIT6.BackgroundColor3 = Color3.fromRGB(68, 68, 68)
+EXPLOIT6.BackgroundColor3 = Color3.fromRGB(0, 219, 255)
 EXPLOIT6.BorderSizePixel = 0
 EXPLOIT6.Position = UDim2.new(0.388349503, 0, 0.323193908, 0)
 EXPLOIT6.Size = UDim2.new(0, 92, 0, 32)
 EXPLOIT6.Font = Enum.Font.Cartoon
-EXPLOIT6.Text = "PsyHub"
+EXPLOIT6.Text = "PsyHub Console"
 EXPLOIT6.TextColor3 = Color3.fromRGB(255, 255, 255)
 EXPLOIT6.TextScaled = true
 EXPLOIT6.TextSize = 14.000
