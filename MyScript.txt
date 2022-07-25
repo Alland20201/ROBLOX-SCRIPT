@@ -108,7 +108,7 @@ CloseButton.TextScaled = true
 CloseButton.TextSize = 14.000
 CloseButton.TextWrapped = true
 CloseButton.MouseButton1Down:connect(function()
-OpenFrame.Visible = true
+OpenFrame.Visible = false
 MainFrame.Visible = false
 MainFrameBeautyA.Visible = false
 MainFrameBeautyB.Visible = false
