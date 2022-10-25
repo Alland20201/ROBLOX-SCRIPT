@@ -1,21 +1,29 @@
-# ROBLOX-SCRIPT
-Code 2 button scripts as you can imagine
+#This is the CING KRING GUI... Heres a contact form
 
-# Whats Roblox Script ?
-Roblox script is making gui for beginners
+<form
 
-# Whats Lua 
-Lua is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
+  action="https://formspree.io/f/xyyvdrwy"
 
-# Whos Doruk
-Hello Let's Talk About Myself I live in Turkey and I can write mojangson and lua for you
+  method="POST"
 
-# Gui is not working 
-You can place scripts where it says SCRIPT HERE so that the GUI can be opened
+>
 
-# Youtube Channel
-SupremeDoritos
+  <label>
 
-# Whats Roblox
-Roblox is an online game platform and game creation system developed by Roblox Corporation. It allows users to program games and play games created by other users. 
+    Your email:
+
+    <input type="email" name="email">
+
+  </label>
+
+  <label>
+
+    Username
+
+    <textarea name="Message"></textarea>
+</label>
+
+  <button type="submit">request Sign Up</button>
+
+</form>
 
