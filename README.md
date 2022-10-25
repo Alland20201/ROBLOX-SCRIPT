@@ -23,7 +23,7 @@
     <textarea name="Message"></textarea>
 </label>
 
-  <button type="submit">request Sign Up</button>
+  <button type="submit">Send</button>
 
 </form>
 
